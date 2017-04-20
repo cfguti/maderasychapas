@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+#Bienvenidos al sitio en GitHub de [maderasychapas.net](http://maderasychapas.net)
 
-You can use the [editor on GitHub](https://github.com/cfguti/maderasychapas/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##Somos especialistas en Madera
+Desde nuestro nacimiento como Maderas y Chapas hemos querido ofrecer la madera de mejor calidad posible al mejor precio por lo que importamos directamente la madera de los mejores orígenes y mejor calidad abaratando as el coste en todo el proceso.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Te ofrecemos:
+###Asesoramiento
 
-### Markdown
+Atención personalizada a la medida de tus ideas. No importa lo que vayas a hacer, nuestros expertos ya lo han hecho antes y te aconsejarán para que a ti te salga igual de bien.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###Servicio integral carpintería
+Si algo se te resiste, nosotros nos pegamos a ti como el barniz. Mediciones, montaje, esquemas… 
+Contigo formamos un gran equipo.
 
-```markdown
-Syntax highlighted code block
+###Transporte
+De la cesta, a la puerta de tu casa. No te preocupes por el tamaño, nuestro servicio de transporte está preparado para que tus compras tengan la medida de tu casa y no la de tu coche.
 
-# Header 1
-## Header 2
-### Header 3
+###Postventa
+Todos nuestros productos tienen garantía de dos años. Y si tienes cualquier problema, solo tienes que descolgar el teléfono, estamos aquí para lo que tú necesites.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cfguti/maderasychapas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Puedes visitarnos en [maderasychapas.net](http://maderasychapas.net) y ver nuestras secciones:
+###[Todos nuestros Servicios](http://maderasychapas.net/content/6-servicios)
+###[Bricolaje](http://maderasychapas.net/content/7-bricolaje)
+###[Puertas de Madera](http://maderasychapas.net/17-puertas)
+###[Puertas de Seguridad](http://maderasychapas.net/18-puertas-de-seguridad)
+###[Armarios](http://maderasychapas.net/19-armarios)
+###[Manivelas](http://maderasychapas.net/20-manivelas)
+###[Suelos](http://maderasychapas.net/21-suelos)
+##Y si quieres contactar con nosotros:
+###[Contacto](http://maderasychapas.net/contactanos)
